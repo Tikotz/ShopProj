@@ -1,0 +1,4 @@
+C:\Users\ori\Documents\workspace\Projects\ASP.NET CORE\Shop.Web\Shop.Data\obj\Debug\netcoreapp2.2\Shop.Data.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\Projects\ASP.NET CORE\Shop.Web\Shop.Data\obj\Debug\netcoreapp2.2\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\Projects\ASP.NET CORE\Shop.Web\Shop.Data\obj\Debug\netcoreapp2.2\Shop.Data.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\Projects\ASP.NET CORE\Shop.Web\Shop.Data\obj\Debug\netcoreapp2.2\Shop.Data.csproj.CoreCompileInputs.cache

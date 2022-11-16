@@ -1,0 +1,5 @@
+C:\Users\ori\Documents\workspace\Projects\ASP.NET CORE\Shop.Web\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.csproj.AssemblyReference.cache
+C:\Users\ori\Documents\workspace\Projects\ASP.NET CORE\Shop.Web\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ori\Documents\workspace\Projects\ASP.NET CORE\Shop.Web\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.AssemblyInfoInputs.cache
+C:\Users\ori\Documents\workspace\Projects\ASP.NET CORE\Shop.Web\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.AssemblyInfo.cs
+C:\Users\ori\Documents\workspace\Projects\ASP.NET CORE\Shop.Web\Shop.Service\obj\Debug\netcoreapp2.2\Shop.Service.csproj.CoreCompileInputs.cache

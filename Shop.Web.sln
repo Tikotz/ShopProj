@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33015.44
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Web", "Shop.Web\Shop.Web.csproj", "{AF78A1BB-A199-4B87-9757-BB427F1AB1AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Data", "Shop.Data\Shop.Data.csproj", "{E47FBA99-40DB-40E2-AAD7-069A4943A3FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Service", "Shop.Service\Shop.Service.csproj", "{C6D515F3-BDBD-43D3-839F-68AA4087318A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF78A1BB-A199-4B87-9757-BB427F1AB1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF78A1BB-A199-4B87-9757-BB427F1AB1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF78A1BB-A199-4B87-9757-BB427F1AB1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF78A1BB-A199-4B87-9757-BB427F1AB1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47FBA99-40DB-40E2-AAD7-069A4943A3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47FBA99-40DB-40E2-AAD7-069A4943A3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47FBA99-40DB-40E2-AAD7-069A4943A3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47FBA99-40DB-40E2-AAD7-069A4943A3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D515F3-BDBD-43D3-839F-68AA4087318A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D515F3-BDBD-43D3-839F-68AA4087318A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D515F3-BDBD-43D3-839F-68AA4087318A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D515F3-BDBD-43D3-839F-68AA4087318A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7928978B-8406-4A59-BC74-37154DE8A6D2}
+	EndGlobalSection
+EndGlobal
